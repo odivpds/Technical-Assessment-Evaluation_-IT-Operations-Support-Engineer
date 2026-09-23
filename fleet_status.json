@@ -1,0 +1,37 @@
+[
+  {
+    "plate": "DK 1234 AB",
+    "model": "Honda Beat",
+    "status": "rented",
+    "fuel_level": "80%",
+    "overdue_hours": 0
+  },
+  {
+    "plate": "DK 5678 CD",
+    "model": "Toyota Avanza",
+    "status": "rented",
+    "fuel_level": "15%",
+    "overdue_hours": 3
+  },
+  {
+    "plate": "DK 9012 EF",
+    "model": "Mitsubishi Xpander",
+    "status": "available",
+    "fuel_level": "40%",
+    "overdue_hours": 0
+  },
+  {
+    "plate": "DK 3456 GH",
+    "model": "Honda Scoopy",
+    "status": "rented",
+    "fuel_level": "90%",
+    "overdue_hours": 5
+  },
+  {
+    "plate": "DK 7890 IJ",
+    "model": "Yamaha NMAX",
+    "status": "rented",
+    "fuel_level": "10%",
+    "overdue_hours": 0
+  }
+]
